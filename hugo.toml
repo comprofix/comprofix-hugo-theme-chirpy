@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
   path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
 
 [[module.imports]]
-  path = "git.comprofix.com/mmckinnon/chirpy-static-assets"
+  path = "github.com/comprofix/comprofix-chirpy-static-assets"
 
 [[module.imports.mounts]]
   source = "."
